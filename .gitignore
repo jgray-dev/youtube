@@ -8,3 +8,5 @@ node_modules
 .wrangler
 
 wrangler.toml
+
+.idea/
